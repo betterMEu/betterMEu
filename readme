@@ -1,1 +1,13 @@
-java newcomer
+~~~mermaid
+journey
+    title 平平淡淡的一天
+    section 起床
+      去公司: 3
+    section 工作
+      上班中: 3
+      午休: 4
+      上班中: 3
+    section 生活
+      英雄联盟启动！: 7   
+      崩铁启动！: 6  
+~~~
